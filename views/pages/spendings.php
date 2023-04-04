@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bruno</title>
+    <title>Spendings</title>
 </head>
 <body>
-    <h1>Bruno</h1>
+    <h1>Spendings: 0</h1>
 </body>
 </html>
